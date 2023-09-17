@@ -3,3 +3,4 @@ Bu dosyada degişiklik yaptım
 
 Conflict Değişikligi-1
 
+cComflict değişikliği-2
