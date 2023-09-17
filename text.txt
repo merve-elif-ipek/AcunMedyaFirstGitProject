@@ -4,3 +4,5 @@ Bu dosyada degişiklik yaptım
 Conflict Değişikligi-1
 
 cComflict değişikliği-2
+
+Ben bu değişikliği geri alacagım
